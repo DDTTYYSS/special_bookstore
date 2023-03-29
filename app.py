@@ -84,6 +84,5 @@ def app():
 
     #district = st.multiselect('請選擇區域', ['a', 'b', 'c', 'd'])
 
-if __name__ == '__main__':
     app()
     
